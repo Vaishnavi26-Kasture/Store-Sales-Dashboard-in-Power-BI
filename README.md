@@ -11,4 +11,8 @@ Understand sales growth patterns over time.
     - Measures the profitability of sales as a percentage.
 - Quantity in Sales:
     -  The total number of units sold across all stores, products, or regions.
+ ## Dashboard for Store Sales
+ ![store_sales_dashboard](https://github.com/user-attachments/assets/7f6d4951-0bda-4461-9159-60ee4f7039ed)
+
+ 
   
