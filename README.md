@@ -4,3 +4,11 @@ The objective of this Power BI project is to create an interactive dashboard tha
 Analyze overall sales trends and performance.
 Identify top-performing stores, products, and categories.
 Understand sales growth patterns over time.
+## KPIs in the Dashboard
+- Total Sales:
+    - Represents the total revenue generated across all stores.
+- Profit Margin:
+    - Measures the profitability of sales as a percentage.
+- Quantity in Sales:
+    -  The total number of units sold across all stores, products, or regions.
+  
