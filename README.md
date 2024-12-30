@@ -59,7 +59,7 @@ The Store Sales Performance Dashboard is a comprehensive solution for analyzing,
    - Drill-down capabilities allow for granular analysis by region, store, and category.
 - Improved Profitability:
    - Profit margin analysis provides a clear understanding of financial performance, allowing focus on high-margin products or regions.
-##Overall Impact
+## Overall Impact
 The dashboard serves as a robust tool for businesses to optimize operations, increase profitability, and stay ahead in a competitive market. It bridges the gap between raw data and strategic insights, providing a platform for continuous improvement and growth.
 
  
